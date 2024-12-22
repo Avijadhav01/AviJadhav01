@@ -23,3 +23,43 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avijadhav01&show_icons=true&locale=en" alt="avijadhav01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijadhav01&" alt="avijadhav01" /></p>
+
+
+## 🌱 Currently Learning
+
+- **TypeScript** - Static typing for JavaScript
+- **GraphQL** - Query language for APIs
+- **Next.js** - Server-side rendering and static site generation with React
+- **Docker & Kubernetes** - Containerization and orchestration for scalable applications
+
+---
+
+## 📞 Let's Connect!
+
+You can reach me through the following platforms:
+
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com)
+- **GitHub**: [My GitHub Profile](https://github.com)
+- **Twitter**: [My Twitter Handle](https://twitter.com)
+- **Email**: [myemail@example.com](mailto:myemail@example.com)
+
+---
+
+## 📑 Tools I Use
+
+- **Code Editor**: VSCode
+- **Package Managers**: npm, Yarn
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Version Control**: Git, GitHub
+- **CI/CD**: Jenkins, Travis CI, GitHub Actions
+
+---
+
+## 🚀 Fun Facts
+
+- I love learning new programming languages and frameworks to stay up-to-date with the latest trends in web development.
+- When I’m not coding, I enjoy gaming, reading tech blogs, and contributing to open-source projects!
+
+---
+
+![Footer Image](https://via.placeholder.com/1200x200/0D47A1/FFFFFF?text=Happy+Coding!)
