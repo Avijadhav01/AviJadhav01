@@ -46,11 +46,10 @@
 
 ## 🌱 Currently Learning
 
-- **TypeScript** - Static typing for JavaScript
+- **Node.js** - for backend side 
 - **GraphQL** - Query language for APIs
 - **Next.js** - Server-side rendering and static site generation with React
-- **Docker & Kubernetes** - Containerization and orchestration for scalable applications
-
+- **projects** - practices on projects 
 ---
 
 ## 📞 Let's Connect!
@@ -60,7 +59,7 @@ You can reach me through the following platforms:
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com)
 - **GitHub**: [My GitHub Profile](https://github.com)
 - **Twitter**: [My Twitter Handle](https://twitter.com)
-- **Email**: [myemail@example.com](mailto:myemail@example.com)
+- **Email**: [avipatil9699403305@gmail.com](mailto:myemail@example.com)
 
 ---
 
