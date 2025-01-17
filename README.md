@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijadhav01&label=Profile%20views&color=0e75b6&style=flat" alt="avijadhav01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avijadhav01" alt="avijadhav01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Avijadhav01" alt="avijadhav01" /></a> </p>
 
 - 🌱 I’m currently learning **Node js**
 
@@ -78,14 +78,12 @@ You can reach me through the following platforms:
 - **Package Managers**: npm, Yarn
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Version Control**: Git, GitHub
-- **CI/CD**: Jenkins, Travis CI, GitHub Actions
-
 ---
 
 ## 🚀 Fun Facts
 
 - I love learning new programming languages and frameworks to stay up-to-date with the latest trends in web development.
-- When I’m not coding, I enjoy gaming, reading tech blogs, and contributing to open-source projects!
+- When I’m not coding, I enjoy gaming, and contributing to open-source projects!
 
 ---
 
