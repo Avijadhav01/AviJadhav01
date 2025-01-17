@@ -57,8 +57,7 @@
 You can reach me through the following platforms:
 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com)
-- **GitHub**: [My GitHub Profile](https://github.com)
-- **Twitter**: [My Twitter Handle](https://twitter.com)
+- **GitHub**: [Avijadhav01](https://github.com)
 - **Email**: [avipatil9699403305@gmail.com](mailto:myemail@example.com)
 
 ---
