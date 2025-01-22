@@ -28,25 +28,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-## 🛠 Skills & Technologies
-
-### Frontend:
-- **HTML** - Markup language for web content
-- **CSS** - Styling with Flexbox, Grid, and SASS
-- **JavaScript** - The heart of web interactivity
-- **React** - Building dynamic user interfaces with hooks, components, and state management
-
-### Backend:
-- **Node.js** - Server-side JavaScript for building APIs and backend logic
-- **Express.js** - Lightweight web framework for building RESTful APIs in Node.js
-- **Python** - Backend logic, data processing, and automation (Flask/Django)
-- **Java** - Object-oriented programming for enterprise-level applications
-- **C++** - Performance optimization and system-level programming
-
-### Databases:
-- **SQL** - MySQL, PostgreSQL for relational databases
-- **NoSQL** - MongoDB for non-relational databases
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijadhav01&show_icons=true&locale=en&layout=compact" alt="avijadhav01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avijadhav01&show_icons=true&locale=en" alt="avijadhav01" /></p>
@@ -54,13 +35,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijadhav01&" alt="avijadhav01" /></p>
 
 
-## 🌱 Currently Learning
-
-- **Node.js** - for backend side 
-- **GraphQL** - Query language for APIs
-- **Next.js** - Server-side rendering and static site generation with React
-- **projects** - practices on projects 
----
 
 ## 📞 Let's Connect!
 
@@ -70,14 +44,6 @@ You can reach me through the following platforms:
 - **GitHub**: [Avijadhav01](https://github.com)
 - **Email**: [avipatil9699403305@gmail.com](mailto:myemail@example.com)
 
----
-
-## 📑 Tools I Use
-
-- **Code Editor**: VSCode
-- **Package Managers**: npm, Yarn
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **Version Control**: Git, GitHub
 ---
 
 ## 🚀 Fun Facts
